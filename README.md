@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**rafaelamarquesg/rafaelamarquesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bem vindos ao meu perfil
+_Me chamo Rafaela_
+Tenho 15 anos 
+Estou no 1 série 
+Estudo no Wenceslau Brás 
+Moro em Nova Aurora - Pr
+Estou estudando no Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e 
+compartilhamento dos meus projetos desenvolvidos.
+Eu gosto muito de dormir,me maquiar e tirar fotos
